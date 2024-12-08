@@ -1,0 +1,12 @@
+## Interface: 110002
+## Title: |cffee5555Lobsters|r Vantus Trader
+## Notes: Simplifies the trading of Vantus Runes
+## Author: Savtus
+## Version: 0.1
+## DefaultState: Enabled
+## IconTexture: 134048
+## SavedVariables: 
+
+
+lobstervantus.lua
+
